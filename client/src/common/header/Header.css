@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  background-color: #eee;
+  padding: 0 2rem;
+  box-shadow: 0 0.3rem 0.3rem rgba(0, 0, 0, 0.5);
+  margin-bottom: 20px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+li {
+  margin-right: 1rem;
+}

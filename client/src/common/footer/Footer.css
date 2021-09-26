@@ -1,0 +1,9 @@
+.footer {
+  margin-top: auto;
+  height: 20vh;
+  color: #777;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
